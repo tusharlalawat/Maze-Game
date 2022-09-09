@@ -2,7 +2,7 @@
 
 Selecting difficulty level :- 
 
- <img width="960" alt="Screenshot 2022-07-22 191040" src="https://user-images.githubusercontent.com/80643980/180453109-ad8de3f0-9ad3-44ea-bf12-aeb6b1500014.png">
+ <img width="960" alt="Images/maze-game1.png" src="https://user-images.githubusercontent.com/80643980/180453109-ad8de3f0-9ad3-44ea-bf12-aeb6b1500014.png">
 
 Difficulty - Easy 
 
@@ -22,4 +22,4 @@ Animated solution for medium level:-
 
 <img width="960" alt="Screenshot 2022-07-22 191332" src="https://user-images.githubusercontent.com/80643980/180453458-9610f9df-9fec-462f-9ce7-6b36735da956.png">
 
-
+<!-- Screenshot 2022-07-22 191040 -->
