@@ -1,25 +1,17 @@
 # Maze-Game
 
-Selecting difficulty level :- 
+Selecting difficulty level:- 
 
- <img width="960" alt="Images/maze-game1.png" src="https://user-images.githubusercontent.com/80643980/180453109-ad8de3f0-9ad3-44ea-bf12-aeb6b1500014.png">
+ <img width="960" alt="Maze-Game1" src="https://user-images.githubusercontent.com/80534075/189458341-829af797-4a9b-4565-8b96-b0949f915954.png">
 
-Difficulty - Easy 
+Created Maze according to difficulty level:-  
 
-<img width="960" alt="Screenshot 2022-07-22 191350" src="https://user-images.githubusercontent.com/80643980/180453662-fa15e8f6-453c-4842-bf8c-f55d45ceb70d.png">
-
-
-Animated solution for easy level:-
-
-<img width="960" alt="Screenshot 2022-07-22 191611" src="https://user-images.githubusercontent.com/80643980/180452755-b05d59a2-7ae0-4707-ac96-8cbfdda0753a.png">
-
-Difficulty - Medium
-
-<img width="960" alt="Screenshot 2022-07-22 191125" src="https://user-images.githubusercontent.com/80643980/180453369-fed0a470-3b9d-479b-82f9-0c1fb368e619.png">
+<img width="960" alt="Maze-Game2" src="https://user-images.githubusercontent.com/80534075/189458339-319dcdf7-d3f6-40c9-bc5c-ef7ad2db1b99.png">
 
 
-Animated solution for medium level:-
+Animated solution for selected level:-
 
-<img width="960" alt="Screenshot 2022-07-22 191332" src="https://user-images.githubusercontent.com/80643980/180453458-9610f9df-9fec-462f-9ce7-6b36735da956.png">
+<img width="960" alt="Maze-Game3" src="https://user-images.githubusercontent.com/80534075/189458333-1f59fd6a-efc3-4f69-8ce4-002daf12ac2a.png">
+
 
 <!-- Screenshot 2022-07-22 191040 -->
